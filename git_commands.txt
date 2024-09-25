@@ -1,4 +1,4 @@
- python testing.py
+python testing.py
 ls -l
 rm testing.py
 git init
